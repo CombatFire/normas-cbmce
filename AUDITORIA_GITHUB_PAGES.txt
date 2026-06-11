@@ -1,0 +1,100 @@
+AUDITORIA - INTELNORMA V8 GITHUB PAGES
+
+Base usada: INTELNORMA_V8_PRODUCAO_mobile_caminhos_corrigidos.zip
+Objetivo: preparar publicação estática no GitHub Pages sem renomear PDFs.
+
+Total de PDFs em docs/: 71
+Total de documentos cadastrados no HTML: 71
+Referências DOCS sem arquivo correspondente: 0
+PDFs não referenciados pelo DOCS: 0
+Referências da Central de Atualizações sem arquivo correspondente: 0
+
+Resultado: todos os PDFs referenciados existem exatamente com o mesmo nome dentro de docs/.
+Nenhum PDF foi renomeado nesta geração. Os hashes SHA-256 dos PDFs foram recalculados apenas para auditoria.
+
+Arquivos principais:
+- index.html: entrada recomendada para GitHub Pages
+- combat_fire_intelnorma_v8_central_atualizacoes.html: cópia com o nome original preservado
+- docs/: pasta com os PDFs
+- .nojekyll: evita processamento Jekyll no GitHub Pages
+
+Como publicar no GitHub Pages:
+1. Crie um repositório no GitHub.
+2. Envie todo o conteúdo deste ZIP para a raiz do repositório, mantendo a pasta docs/.
+3. Em Settings > Pages, selecione Deploy from branch, branch main, pasta /root.
+4. Abra a URL gerada pelo GitHub Pages. Use index.html como entrada.
+
+Observação: em GitHub Pages, os PDFs abrem por HTTPS, então funciona melhor em celular/tablet do que file:// ou content://.
+
+PDFs auditados:
+- docs/CEPI_NB_2026_1.pdf | sha256=b329882f74a0ec438ced863b15b22d9c1920ea33587c7808e6c05d82dba91af8
+- docs/CTE_PT_2021_5.pdf | sha256=18fbc36a64dfb1010af78360968cffba366b633399587958c607b1b2cc48e456
+- docs/CTE_PT_2025_1.pdf | sha256=c73f75abea55f6c048c701f7e9ee65ba8e3f6e8bfcfb10ac88c97d2cd54d259e
+- docs/CTE_PT_2025_2_VEICULOS.pdf | sha256=669edea5826d30455a3f974aa4d653f3549d69f64198d5e1fbea9760b019c03d
+- docs/CTE_PT_2025_31.pdf | sha256=cac11507225200c71a96457dcb51e9f2ecdbb9096031574b90f93d22d7366a12
+- docs/CTE_PT_2025_8.pdf | sha256=0320018045881794d0ab9102d62a8dab0448f37ed407f36acbb2c7e7a20b7aaa
+- docs/CTE_PT_2026_2.pdf | sha256=ff97a2a0cdfbc589298dda5d029bfb31ec9deaafb87b3fc8de3a0e3be6835164
+- docs/CT_PT_2021_1.pdf | sha256=198e7af1829f1062e58b66b9a0f37541b05102aac964dde30ed7bc34c2ff9bc3
+- docs/Decreto_28.085_20060110_Regulamenta_a_lei_13.556.pdf | sha256=b1d4fd0b62cabbc306565762bca5883f9e7e533e66181f0beec107cb1e8d3cc4
+- docs/Formulário-Padrão-Para-Assessoria-Técnica-de-Brigada-de-Incêndio(1).pdf | sha256=8b43f854a0116d0cfc493d5a6e6b687f4b80dc1c0fe069159a18a0dfa925cf6e
+- docs/Lei_13.556_20041229_Seguranca_contra_incêndio.pdf | sha256=2fab9aef1ab1c07ec7b88a14656696fda419dc77384b937e7e0d12737f4b71ad
+- docs/Lei_15.838_20150727_Taxas_de_fiscalização_e_prestação_de_serviço_público.pdf | sha256=e37d9efb431e6bca552988522aca1ed71d930d9a575b1c04641fd421a7462f38
+- docs/NT-003-Prevenção-Contra-Incêndio-e-Pânico-em-Estádios-e-Áreas-Afins-Versão-2011(1).pdf | sha256=e8ee744d4f39f536102f328156fb7619c8cecb661ae042810eb4416bda3b65d8
+- docs/NT-005-–-Saídas-de-Emergência(1).pdf | sha256=d668687adc3cf25f921f69a54aca797ccba3302d9691a8b2030816cac56604b1
+- docs/NT-006-–-HIDRANTES-com-alteracoes-de-Portarias-e-Pareceres(1).pdf | sha256=8037acae0aa2d16496772f882e0e722e41e51b0f5003ab6be0af11e4ed553ff8
+- docs/NT-007-–-Manipulação-armazenamento-comercialização-e-utilização-de-GLP(1).pdf | sha256=62088cb15a55c835cd1959ef57553eb8110c97002f635f8538fc6ea1951951f9
+- docs/NT-009-–-Iluminação-de-emergência(1).pdf | sha256=19fc1d55f3d610695288a6a43e5f58022f0c1df7b7ce8af2a6a730f7555689d6
+- docs/NT-011-–-Deslocamento-de-viaturas-na-zona-urbana(1).pdf | sha256=d3072148464f17458d11835b30042f7ec685aa1a67ed9cb2b3cacd8eb64c5a7a
+- docs/NT-012-–-Sistema-de-detecção-e-alarme(1).pdf | sha256=d6f001d0a5908258948ff4a18cbd63a18b2ba1c0b9195e550043565b2a03e3e2
+- docs/NT-013-–-Compartimentação-horizontal-e-vertical(1).pdf | sha256=5c4e0510bd471f70fa0b0b984a42a0a74bad9382a4e81471e40c066f29b94099
+- docs/NT-014-–-Fogos-de-artifício(1).pdf | sha256=7cd9e87795b84f9b26f70390feac666d2dc52b57b18d81dc53b439200a370712
+- docs/NT-015-–-Sistema-de-chuveiros-automáticos(1).pdf | sha256=4d3d84ed6ba4cbdb91b4eeea8a4801cd600a09490f0247b723f6b4a9abba7ef2
+- docs/NT-018_cbmce_edificacoes_antigas_formatado.pdf | sha256=867d9782f87d3f3db91b37a730f88f7d1c1564973b524c7e6c8ac5bc8ee7b319
+- docs/NT-01_2024  Procedimento Administrativo - EM VIGOR(1).pdf | sha256=22bef7c4a37eae09b8517920cfadec1b0c7198580830f360a97eda853519b57b
+- docs/NT-020 - Atividades Agropastoris.pdf | sha256=7970698b9806fed56352b392562d121a7a8291c9dad12edc63d1997b9fc5d172
+- docs/NT-03-2025TERMINOLOGIA-DE-SEGURANCA-CONTRA-INCENDIO(1).pdf | sha256=0498cbb0bc9094316604cdc9b3b796596e9cdaf004912e5a602e0890954c8e8b
+- docs/NT-04-2024-SIMBOLOS-GRAFICOS-PARA-PROJETOS-DE-SEGURANCA-CONTRA-INCENDIO-E-PANICO(1).pdf | sha256=05c4ab8cb8c022a731686ea4ea341b76e0d7a3230f4caa42c47475655980cc14
+- docs/NT-05-2025 SEGURANCA-CONTRA-INCENDIO-URBANISTICA(1).pdf | sha256=9aad3c8435e7f87c607536cadc2937a1cbcdd19ca810c0068cb9fbc21907313e
+- docs/NT-06-2024-ACESSO-DE-VIATURAS-NAS-EDIFICACOES-E-AREAS-DE-RISCO(1).pdf | sha256=8b71d8376b4a6c07d33f8e1fde9dfabab78aa99ee29ca94b00f0ddf668c30539
+- docs/NT-07-2024-SEPARACAO-ENTRE-EDIFICACOES-ISOLAMENTO-DE-RISCO(1).pdf | sha256=01c7fb429a4a15c2d9aa2543cfe577b57e78f1d9ecb6521fc8da618ff08d7a74
+- docs/NT-08-RESISTENCIA-AO-FOGO-DOS-ELEMENTOS-DE-CONSTRUCAO(1).pdf | sha256=20a2ccb58202e29a0ac79777e64219fc904e68cb80e79446efc5c8d7b24d4925
+- docs/NT-09-COMPARTIMENTACAO-HORIZONTAL-E-VERTICAL(1).pdf | sha256=e4c1973d2fe9eaa43765e75911b3d9507f4145dc7c2c48f51a168b2204bfa7e5
+- docs/NT-14-2025 CARGA-DE-INCENDIO-NAS-EDIFICACOES-E-AREAS-DE-RISCO(1).pdf | sha256=b90c9e55b1bace6f787907ad8822733bee33d22275228354de8f1db2c5caa23e
+- docs/NT-16-GERENCIAMENTO-DE-RISCOS-DE-INCENDIO-E-PANICO.pdf | sha256=68c549476cef519531fd845996d901b8d153f9f06adc73898066c51c909ac20f
+- docs/NT-21-SISTEMA-DE-PROTECAO-POR-EXTINTORES-DE-INCENDIO.pdf | sha256=f8b27739c58b10061a268a9b294412a9b3125285f71d94ed6caa32719723a689
+- docs/NT-33-COBERTURA-DE-SAPE-PIACAVA-E-SIMILARES.pdf | sha256=1905d9242d6cb19dd9595c4101ed2298345c53764544ff50ba84d0f71527268f
+- docs/NT-48-SISTEMA-DE-RECARGA-DE-VEICULOS-ELETRIFICADOS_REV01.pdf | sha256=b25b5dbc3b507b110e7cc0b67d0857dd52e17c8792650077df3f549a00fcd8b1
+- docs/NT-49_2025_Seguranca_em_Estruturas_Contra_Suicidio.pdf | sha256=737796b38e42ec288ff66953dc3a232e415e702c97af153d7fb06d4c9d6cd845
+- docs/PARECER-CT-02-2015.pdf | sha256=2549434980f5595c26b324062284270f22583d3b9afbe814856d940c02ca5b57
+- docs/PORTARIA-Nº-340.2019.pdf | sha256=27695201306d62f62a1848856c0493d1527057511e774133eb91fbb321fc9064
+- docs/PORTARIA-_303_2024_CMDO_CBMCE_2aEDICAO.pdf | sha256=de4a95c89713e66a69d55c94f936259e3bd156a0ec726746859a9fcd42dfe843
+- docs/PORTARIA_123_2026_CMDO_CBMCE.pdf | sha256=9f72baabe76f51105ef617aac8b02f40168526ae969005ff4b7c96d9369d83d2
+- docs/PORTARIA_618_2025_3aedicao.pdf | sha256=2eee88f01a61790652cffecbae9f99c15b580655662441b8b190a2d97ef7e7a5
+- docs/PORTARIA_ATUALIZACAO_ENDERECO.pdf | sha256=fd8904cd1f9bfbfbfcdca15782e63c1254e6fba036a6e64ad8ca8b012be3c60e
+- docs/PT_02_2020_Altera_Hid_Urb_Indústria.pdf | sha256=bfa107331aa83ac7d2b55e70aeed947165e0d9aca7c1a25502670c5efd82a5ae
+- docs/PT_05_2020_Const_Temp_Emerg.pdf | sha256=e39108e8135af77dfd93ec59849de99eda877e08aad83f30e7b4b958d5699a1c
+- docs/Paarecer_Tecnico_01_2020_Sist_Hidrantes.pdf | sha256=daaf4412a1c5cd18257cd2da6a6917c7324f6b77554dbe52f5996920f2d6dc27
+- docs/Parecer-Tecnico_01_2018_MultCamada_UV_final.pdf | sha256=6396632bc99fac6dd319d2bd0fd30c364d080071e7e377e4c7230e2c6952fbaf
+- docs/Parecer-Técnico_003-2016_Tubos_MultCamada_GLP.pdf | sha256=b6c2975796fcc15dea5945c7e9909fce0cbc838e47100e43094dabeafea4ef06
+- docs/Parecer_tecnico_03_2020.pdf | sha256=291cbff0403c1bcfe42a8cf6a1670ae2c5d6dc3b7c5882ef72162739c73fc570
+- docs/Portaria-127_2020_quantidade_servicos_por_boleto.pdf | sha256=94fe98c4c13aede8f6292557014a64530d037a207f1c9b25cd16e849e46ce0bf
+- docs/Portaria-128_2020_Prorroga_certificados_30062020.pdf | sha256=46accfde852dd24a1129eab37ef77c9abdc002c54f4e98e2f9cbc517d17356e3
+- docs/Portaria-686-2025.pdf | sha256=81de1fc213e69569c6febeb568378c2aacc224822cdd26686ba9aa51bd05af2f
+- docs/Portaria_006_2004_brigada_de_incêndio.pdf | sha256=5984b9400eb5f9ffce6f00e80510cd5478a2c533a6d14678c8455051825350d0
+- docs/Portaria_112_2020_Seg_Constr_Emerg.pdf | sha256=af57def37c91e6bf9820962c632341ae29906d3e143f6d98c6108af3f9340ddf
+- docs/Portaria_172_2016_Priorizacao_de_Atendimento-p._2_3.pdf | sha256=f82f3ad06314398468eb66b7b08301915b125b1f7debe131a697bbc0c7938651
+- docs/Portaria_186_2019_analise_digital.pdf | sha256=0d8fa58deb2f686c30bfddc497bd941f9364bc209aae67c242add14565eee20a
+- docs/Portaria_20_2010_Altera_Normas_Tecnicas.pdf | sha256=a32aff3d83c465d94a56c8eab854c1f70d4ac0894c7d515bb7476c7392610a2f
+- docs/Portaria_500_2007_alteracao_brigada_de_incêndio.pdf | sha256=4f19c95081ac587c1d40a20645494230f504d294387c13ebaac724d6a8f494ab
+- docs/Portaria_83_2006_Estabelece_criterios_bm_assessortecnico.pdf | sha256=bd7ec88ada1d642b44a826ee2f34ea606aefdc5687b8b95e0ab622b7ce40e54f
+- docs/Portaria_89_2021.pdf | sha256=ee2c82dfa83ad277ccd8d4a1ca4c522a3f578a263f45f37058d386e027dc9dc6
+- docs/Termo-de-Responsabilidade-Queima-de-Fogos.pdf | sha256=7282e47c9e6edbb09e6889680b35e4121798bcc75539853f2e82b5152a60e097
+- docs/Termo-de-Responsabilidade-para-Quadrilhas-e-Festas-Juninas.pdf | sha256=aaee4bb962e20ecf5be46b5577f61cc485c1f4b48bfb216cb837efb122e5c891
+- docs/lei_16361.pdf | sha256=98b64f94dccfaf604c6497d1650c7a808ba86b298e6d7f829ace9544b6bcc779
+- docs/port_99_2020.pdf | sha256=999daaab68b50e2f83de6992ebbde2858a8dc35817b65e3f52ac0ceef4d2f035
+- docs/portaria_136_2018_edificaes_at_3_pavimentos.pdf | sha256=616fb4f0d632047b45c1b5f3a42fa3b69ff24a3e986dfd9943e14cfda53a0d92
+- docs/portaria_137_2018_industria_alto_risco.pdf | sha256=67214d7cf3bed06363837834656cdf624c2858363800835e8dc7165174ff29ca
+- docs/portaria_194_2020_prancha_pdf.pdf | sha256=3c3b0df262354b2667fd57395bb5cda406e626a1d4190580afb30b65e44ca563
+- docs/portaria_352_2019.pdf | sha256=ee0c6a4c01a4a8bddb713deb2a3fc3467e9c01a7925fa816948f357a9b6bf06e
+- docs/portaria_367_2018.pdf | sha256=c71f9af374027877c1e1e15497e6236ff3ebac66f7773ddc982c2ddaa6f664a3
+- docs/portaria_368_2018.pdf | sha256=460f0b76f0d8554ed04c733251c349fc2d0379b256dba076b610ff354747bd0f

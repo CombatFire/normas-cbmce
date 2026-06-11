@@ -1,0 +1,8 @@
+Combat Fire IntelNorma V8 - Central de Atualizações Normativas
+
+Abra o arquivo combat_fire_intelnorma_v8_central_atualizacoes.html no navegador.
+A ferramenta foi construída sobre a V7 Professional Suite e adiciona a Central V8.
+
+Importante: a verificação automática depende da conferência nas fontes oficiais do CBMCE/DOE.
+O botão 'Registrar atualização' salva o registro no navegador. Para consolidar uma atualização definitiva,
+adicione o novo PDF ao pacote e gere uma nova versão da base.
